@@ -1,0 +1,1 @@
+print(ptr2.next.data)
